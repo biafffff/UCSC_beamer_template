@@ -11,7 +11,9 @@ You should only focus on the content of your document, its layout will be manage
 This template is based on the [Metropolis](https://github.com/matze/mtheme) beamer template:
 > Metropolis is a simple, modern Beamer theme suitable for anyone to use. It tries to minimize noise and maximize space for content; the only visual flourish it offers is an (optional) progress bar added to each slide.
 
-Not convinced? Have a look at some demo pages.
+Not convinced? Have a look at some [demo pages](https://i.imgur.com/2VGuLtb.png).
+
+![Sample](https://i.imgur.com/2VGuLtb.png)
 
 ## Installation
 Installing this template from source, like any LaTeX theme, involves three easy steps:
