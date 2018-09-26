@@ -6,7 +6,7 @@ This template let you write your presentation following some standard graphical 
 
 You should only focus on the content of your document, its layout will be managed by LaTeX directly.
 
-> When writing, the writer uses plain text as opposed to the formatted text found in WYSIWYG ("what you see is what you get") word processors like Microsoft PowerPoint.
+> When writing, the writer uses plain text (WYSIWYM "What you see is what you mean") as opposed to the formatted text found in WYSIWYG ("What you see is what you get") word processors like Microsoft PowerPoint.
 
 This template is based on the [Metropolis](https://github.com/matze/mtheme) beamer template:
 > Metropolis is a simple, modern Beamer theme suitable for anyone to use. It tries to minimize noise and maximize space for content; the only visual flourish it offers is an (optional) progress bar added to each slide.
@@ -20,7 +20,7 @@ Installing this template from source, like any LaTeX theme, involves three easy 
 1. **Download the source** as a zip archive of the latest development version.
 2. **Copy** the zip archive in a new folder. All the materials (images, biography) related to your thesis should be inside this folder.
 3. **Open the file** `UCSC_Presentation.tex` and compile it. In order to do so, you should:
-   - Donwload a full TeX distribution on the [LaTeX Project](https://www.latex-project.org/get/) website. Then donwload a TeX editor.
+   - Donwload a full TeX distribution on the [LaTeX Project](https://www.latex-project.org/get/) website. Then donwload a TeX editor, as for example [TeXmaker](http://www.xm1math.net/texmaker/) or [TeXstudio](http://texstudio.sourceforge.net).
    - or Register on [Overleaf](https://www.overleaf.com) website and use its online compiler. This second option is suggested for one-time users.
 4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with XeLaTeX. On Overleaf, after having uploaded the project, as a zip folder, you should click on the *menu* (lef top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
    
