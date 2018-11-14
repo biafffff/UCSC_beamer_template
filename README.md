@@ -27,7 +27,7 @@ Installing this template from source, like any LaTeX theme, involves three easy 
    - or Register on [Overleaf](https://www.overleaf.com) website and use its online compiler. This second option is suggested for one-time users.
 4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with XeLaTeX. On Overleaf, after having uploaded the project, as a zip folder, you should click on the *menu* (lef top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
    
-In there are no errors in your code, a `UCSC_Presentation.pdf` will be printed as an output.
+If there are no errors in your code, a `UCSC_Presentation.pdf` will be printed as an output.
 
 ## Usage
 Detailed information on using this template can be found in the [Metropolis manual](http://ctan.mirror.garr.it/mirrors/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/doc/metropolistheme.pdf).
