@@ -23,9 +23,9 @@ Installing this template from source, like any LaTeX theme, involves three easy 
 1. **Download the source** as a zip archive of the latest development version.
 2. **Copy** the zip archive in a new folder. All the materials (images, biography) related to your thesis should be inside this folder.
 3. **Open the file** `UCSC_Presentation.tex` and compile it. In order to do so, you should:
-   - Donwload a full TeX distribution on the [LaTeX Project](https://www.latex-project.org/get/) website. Then donwload a TeX editor, as for example [TeXmaker](http://www.xm1math.net/texmaker/) or [TeXstudio](http://texstudio.sourceforge.net).
+   - Donwload a full TeX distribution from the [LaTeX Project](https://www.latex-project.org/get/) website. Then donwload a TeX editor, as for example [TeXmaker](http://www.xm1math.net/texmaker/) or [TeXstudio](http://texstudio.sourceforge.net).
    - or Register on [Overleaf](https://www.overleaf.com) website and use its online compiler. This second option is suggested for one-time users.
-4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with XeLaTeX. On Overleaf, after having uploaded the project, as a zip folder, you should click on the *menu* (lef top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
+4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with *XeLaTeX*. On Overleaf, after having uploaded the project as a zip folder, you should click on the *menu* (lef top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
    
 If there are no errors in your code, a `UCSC_Presentation.pdf` will be printed as an output.
 
@@ -33,4 +33,4 @@ If there are no errors in your code, a `UCSC_Presentation.pdf` will be printed a
 Detailed information on using this template can be found in the [Metropolis manual](http://ctan.mirror.garr.it/mirrors/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/doc/metropolistheme.pdf).
 
 ### Font
-Fira Sans is gorgeous typeface commissioned by Mozilla and designed by Carrois. It comes with an enormous amount of styles and features that cover even the most adventurous presentations. The font has been already included in this project in the folder [Fira Sans font](https://github.com/Francesco-Bianchi/UCSC_beamer_template/tree/master/Fira%20Sans%20font).
+Fira Sans is a gorgeous typeface commissioned by Mozilla and designed by Carrois. It comes with an enormous amount of styles and features that cover even the most adventurous presentations. The font has been already included in this project in the folder [Fira Sans font](https://github.com/Francesco-Bianchi/UCSC_beamer_template/tree/master/Fira%20Sans%20font).
