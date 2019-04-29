@@ -25,7 +25,7 @@ Installing this template from source, like any LaTeX theme, involves three easy 
 3. **Open the file** `UCSC_Presentation.tex` and compile it. In order to do so, you should:
    - Donwload a full TeX distribution from the [LaTeX Project](https://www.latex-project.org/get/) website. Then donwload a TeX editor, as for example [TeXmaker](http://www.xm1math.net/texmaker/) or [TeXstudio](http://texstudio.sourceforge.net).
    - or Register on [Overleaf](https://www.overleaf.com) website and use its online compiler. This second option is suggested for one-time users.
-4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with *XeLaTeX*. On Overleaf, after having uploaded the project as a zip folder, you should click on the *menu* (lef top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
+4. For best results **install** Mozilla's [Fira Sans](https://www.fontsquirrel.com/fonts/fira-sans) on your computer and compile the document with *XeLaTeX*. On Overleaf, after having uploaded the project as a zip folder, you should click on the *menu* (left top corner) and change the compiler from *pdfLaTeX* to *XeLaTeX*.
    
 If there are no errors in your code, a `UCSC_Presentation.pdf` will be printed as an output.
 
