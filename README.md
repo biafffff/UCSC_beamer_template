@@ -1,7 +1,5 @@
 # Università Cattolica del Sacro Cuore beamer template
 
-[![HitCount](http://hits.dwyl.io/https://github.com/Francesco-Bianchi//https://github.com/Francesco-Bianchi/UCSC_beamer_template.svg)](http://hits.dwyl.io/https://github.com/Francesco-Bianchi//https://github.com/Francesco-Bianchi/UCSC_beamer_template)
-
 Beamer presentation template of Università Cattolica del Sacro Cuore <br />
 This template let you write your presentation following some standard graphical rules. 
 
